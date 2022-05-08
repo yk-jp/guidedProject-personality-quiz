@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F20856062825CEFF0027A16C /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20856052825CEFF0027A16C /* QuestionViewController.swift */; };
 		F20856082825CF2B0027A16C /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20856072825CF2B0027A16C /* ResultsViewController.swift */; };
+		F27BA16E282726C2009B4876 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27BA16D282726C2009B4876 /* Question.swift */; };
 		F293B5E02824EC5800B97723 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F293B5DF2824EC5800B97723 /* AppDelegate.swift */; };
 		F293B5E22824EC5800B97723 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F293B5E12824EC5800B97723 /* SceneDelegate.swift */; };
 		F293B5E42824EC5800B97723 /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F293B5E32824EC5800B97723 /* IntroductionViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		F20856052825CEFF0027A16C /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		F20856072825CF2B0027A16C /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		F27BA16D282726C2009B4876 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		F293B5DC2824EC5800B97723 /* PersonalityQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PersonalityQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F293B5DF2824EC5800B97723 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F293B5E12824EC5800B97723 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				F20856052825CEFF0027A16C /* QuestionViewController.swift */,
 				F20856072825CF2B0027A16C /* ResultsViewController.swift */,
 				F293B5E52824EC5800B97723 /* Main.storyboard */,
+				F27BA16D282726C2009B4876 /* Question.swift */,
 				F293B5E82824EC5B00B97723 /* Assets.xcassets */,
 				F293B5EA2824EC5B00B97723 /* LaunchScreen.storyboard */,
 				F293B5ED2824EC5B00B97723 /* Info.plist */,
@@ -147,6 +150,7 @@
 				F293B5E42824EC5800B97723 /* IntroductionViewController.swift in Sources */,
 				F293B5E02824EC5800B97723 /* AppDelegate.swift in Sources */,
 				F20856062825CEFF0027A16C /* QuestionViewController.swift in Sources */,
+				F27BA16E282726C2009B4876 /* Question.swift in Sources */,
 				F20856082825CF2B0027A16C /* ResultsViewController.swift in Sources */,
 				F293B5E22824EC5800B97723 /* SceneDelegate.swift in Sources */,
 			);
